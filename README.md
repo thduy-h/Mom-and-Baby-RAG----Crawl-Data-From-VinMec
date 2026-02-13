@@ -174,8 +174,8 @@ pip install requests beautifulsoup4 pandas tqdm flask
 
 ## 👨‍💻 Author
 
-**Tiến Quốc Bảo**\
-GitHub: https://github.com/tienquocbao
+**Huỳnh Thanh Duy**\
+GitHub: https://github.com/thduy-h
 
 ------------------------------------------------------------------------
 
